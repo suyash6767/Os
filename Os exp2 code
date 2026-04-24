@@ -1,0 +1,41 @@
+Here’s the clean Word file content up to Step 6 only, with proper spacing:
+
+
+---
+
+TITLE: Practical – Using mkdir and strace with ls command
+
+
+---
+
+Step 1: Create a Directory
+
+mkdir prac1
+
+Step 2: Change Directory
+
+cd prac1
+
+Step 3: Create a File
+
+touch exp1
+
+Step 4: Insert Data into File
+
+echo "linux" > exp1
+echo "iot" >> exp1
+echo "dbms" >> exp1
+echo "ct" >> exp1
+
+Step 5: Display File Details
+
+ls -l
+
+Step 6: Execute ls using strace
+
+strace ls -l
+
+
+---
+
+If you want, I can also format it with **headings, bold styling, and spacing exactly like a college submission format** 👍
